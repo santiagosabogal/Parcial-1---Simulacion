@@ -4,9 +4,9 @@ author: "Santiago Sabogal Correa - Pablo Emilio Muñoz"
 date: '2022-03-25'
 output:
   word_document: default
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
 lang: es-ES
 ---
 
@@ -104,7 +104,7 @@ ppois(180, lambda = lambda, lower.tail = TRUE)
 
 La probabilidad de que todas las personas lleguen a embarque y no se presenten quejas por "sobre-ventas" de sillas antes la aeronautica civil es del 62,55%
 
-# Probabilidad de que las personas lleguen a embarque en un vuelo de Avianca
+# Producto No conforme embotellado Coca-Cola
 
 3.En la planta envasadora de Coca-Cola FEMSA ubicada en Tocancipá se realiza el embotellado de la Coca-Cola presentación de 400 mL (en promedio), con una desviación estándar de 5 mL (mililitros). Si se sabe por experiencia que este proceso de embotellado sigue una distribución normal, y también se sabe que todo producto con más de 415 mL es declarado como NO CONFORME. Determine el porcentaje de las botellas de gaseosa que son declaradas producto NO CONFORME.
 
